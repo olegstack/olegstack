@@ -18,14 +18,12 @@
 📫 Готов к новым вызовам и открыт для интересных проектов!</p>
 
 <p>
-  <img src="https://tse2.mm.bing.net/th?id=OIP.xb_EbxSqTZ7x1zYn3-UcoAHaHa&pid=Api"
-        alt="Binary code banner"
+  <img src="https://timix.nios.ru/sites/timix.nios.ru/files/images/program_code_098860_.jpg"
+        alt="code banner"
         width="100%" />
   </p>
 
-
 <h3 align="center">🛠 Технологии:</h3>
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
