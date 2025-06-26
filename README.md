@@ -1,6 +1,4 @@
-
 <h1 align="center">Привет👋 Меня зовут Олег!</h1>
-
 
 <h3 align="left">👩‍💻  Обо мне</h3>
 
@@ -11,6 +9,24 @@
 💡 Я люблю учиться, не боюсь сложных задач и получаю удовольствие, когда мои проекты начинают работать.
 
 📫 Готов к новым вызовам и открыт для интересных проектов!</p>
+
+---
+
+<img src="https://timix.nios.ru/sites/timix.nios.ru/files/images/program_code_098860_.jpg"
+        alt="code banner"
+        width="100%" />
+
+---
+
+<h3 align="center">🏆 Моя статистика:</h3>
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=olegstack&theme=tokyonight)
+
+###
+
+<div align= "center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olegstack&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 <h3 align="center">🛠 Технологии:</h3>
 
@@ -25,44 +41,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
 </div>
-
----
-  <img src="https://timix.nios.ru/sites/timix.nios.ru/files/images/program_code_098860_.jpg"
-        alt="code banner"
-        width="100%" />
-
-
----
-
-<h3 align="center">🏆 Моя статистика:</h3>
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=olegstack&theme=tokyonight)
-
-###
-
-<div align= "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olegstack&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
