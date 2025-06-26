@@ -17,9 +17,11 @@
 
 📫 Готов к новым вызовам и открыт для интересных проектов!</p>
 
-<p align="center">
-  <img src="https://tse2.mm.bing.net/th?id=OIP.iCox_XdylgscEr8jWWTkegHaEU&pid=Api" alt="Programming banner" />
-</p>
+<p>
+  <img src="https://tse2.mm.bing.net/th?id=OIP.iCox_XdylgscEr8jWWTkegHaEU&pid=Api" alt="Programming banner" 
+        alt="Binary code banner"
+        width="100%" />
+  </p>
 
 
 <h3 align="center">🛠 Технологии:</h3>
