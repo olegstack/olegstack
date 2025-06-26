@@ -17,14 +17,15 @@
 
 📫 Готов к новым вызовам и открыт для интересных проектов!</p>
 
-<p>
+---
   <img src="https://timix.nios.ru/sites/timix.nios.ru/files/images/program_code_098860_.jpg"
         alt="code banner"
         width="100%" />
-  </p>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=olegdev&theme=gruvbox)
-  
+
+---
+![Trophy](https://github-profile-trophy.vercel.app/?username=olegstack&theme=tokyonight)
+
 
 <h3 align="center">🛠 Технологии:</h3>
 
