@@ -23,6 +23,9 @@
         width="100%" />
   </p>
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=olegdev&theme=gruvbox)
+  
+
 <h3 align="center">🛠 Технологии:</h3>
 
 <div align="center">
@@ -36,6 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
 </div>
+
 
 
 
